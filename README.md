@@ -11,3 +11,13 @@ and
 ```
 chmod +x debugserver
 ```
+
+---
+已经用ldid签名过了，重命名成debugserver放到目录
+```
+/usr/bin/
+```
+然后提权。也可以直接在filza里面设置权限0755
+```
+chmod +x debugserver
+```
