@@ -21,8 +21,4 @@ Enjoy~~
 ```
 scp -P端口号 debugserver root@127.0.0.1:/usr/bin/
 ```
-~~然后提权即可使用。也可以直接在filza里面设置权限0755~~
-~~```
-chmod +x debugserver
-```
-~~
+
